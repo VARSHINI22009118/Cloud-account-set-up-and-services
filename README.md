@@ -80,8 +80,10 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 # Services Overview:
 • Explore all the available services in AWS platform.
 # Output:
-![Screenshot 2025-05-24 090229](https://github.com/user-attachments/assets/7f2b41d0-4efd-4d64-82e9-785edabfd501)
-![Screenshot 2025-05-24 090257](https://github.com/user-attachments/assets/96d3b302-5609-4dce-92ca-8b629faef97c)
+![Screenshot 2025-06-04 205855](https://github.com/user-attachments/assets/de8934f4-0981-46aa-b0f0-3f4ad6fd7132)
+
+![Screenshot 2025-06-04 205925](https://github.com/user-attachments/assets/1ec862ad-577e-45cb-bf0b-4bb352a09bde)
+
 
 
 # Result:
